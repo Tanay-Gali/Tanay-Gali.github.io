@@ -13,7 +13,7 @@ title                    : "Tanay Gali"
 title_separator          : "-"
 name                     : &name "Tanay Gali"
 description              : &description "The website of a determined individul"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tanay-gali.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
